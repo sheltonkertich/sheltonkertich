@@ -16,6 +16,7 @@ Don't mind the many commits — during setup, I found a better way to do things.
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=figma,nodejs,react,js,ts,nestjs,apollo,graphql,redis,sentry,postgresql,gcp)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheltonkertich)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheltonkertich)](https://git.io/streak-stats)
