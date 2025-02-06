@@ -2,6 +2,7 @@
 
 Don't mind the many commits — during setup, I found a better way to do things. If you're going to do something, do it right. Check out my bio to learn more about me, and feel free to reach out!
 
+## 🚀 About Me
 - 🔭 I’m currently working on a Fullstack nestjs, reactAdmin and React Native application
 - 🌱 I’m currently learning Backend technologies, Optimizations techniques, Scaling and Best coding practices
 - 👯 I’m looking to collaborate on Typescript based Projects
@@ -9,6 +10,8 @@ Don't mind the many commits — during setup, I found a better way to do things.
 - 💬 Ask me about React
 - 📫 How to reach me: checkout my socials
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,reactNative,js,ts,nestjs)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sheltonkertich)](https://github.com/ryo-ma/github-profile-trophy)
 
