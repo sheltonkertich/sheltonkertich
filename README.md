@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+Don't mind the many commits — during setup, I found a better way to do things. If you're going to do something, do it right. Check out my bio to learn more about me, and feel free to reach out!
 
 - 🔭 I’m currently working on a Fullstack nestjs, reactAdmin and React Native application
 - 🌱 I’m currently learning Backend technologies, Optimizations techniques, Scaling and Best coding practices
@@ -8,8 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React
 - 📫 How to reach me: checkout my socials
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sheltonkertich)](https://github.com/ryo-ma/github-profile-trophy)
 
