@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Don't mind the many commits — during setup, I found a better way to do things. If you're going to do something, do it right. Check out my bio to learn more about me, and feel free to reach out!
-
+https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif
 ## 🚀 About Me
 - 🔭 I’m currently working on a Fullstack nestjs, reactAdmin and React Native application
 - 🌱 I’m currently learning Backend technologies, Optimizations techniques, Scaling and Best coding practices
