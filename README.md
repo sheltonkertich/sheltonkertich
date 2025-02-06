@@ -14,7 +14,7 @@ Don't mind the many commits — during setup, I found a better way to do things.
 [![trophy](https://github-profile-trophy.vercel.app/?username=sheltonkertich)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=figma,node,react,js,ts,nestjs,apollo,graphql,redis,sentry,postgresql,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,nodejs,react,js,ts,nestjs,apollo,graphql,redis,sentry,postgresql,gcp)](https://skillicons.dev)
 
 
 ## Activity
